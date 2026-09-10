@@ -1,4 +1,4 @@
-# PkgShip
+# PKGSHIP
 
 **Cross-platform packaging for open source projects.**
 
